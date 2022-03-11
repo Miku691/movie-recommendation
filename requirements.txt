@@ -12,6 +12,7 @@ debugpy==1.5.1
 decorator==5.1.1
 entrypoints==0.4
 executing==0.8.2
+gunicorn==19.10.0
 Flask==2.0.3
 fonttools==4.29.1
 idna==3.3
